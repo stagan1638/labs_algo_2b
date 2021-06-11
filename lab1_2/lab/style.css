@@ -1,0 +1,28 @@
+form {
+    width: 30%;
+    border: 3px black solid;
+    float: left;
+    background-color: rgb(241, 220, 192);
+    margin: 40px;
+    font-size: 16px;
+}
+
+span {
+    color: chartreuse;
+}
+
+#easy-rools-start {
+    background-color: rgb(182, 235, 182);
+    color: black;
+    font-weight: bold;
+}
+
+#medium-rools-start {
+    background-color: rgb(49, 230, 49);
+    color: black;
+    font-weight: bold;
+}
+
+#output {
+    margin: 40px;
+}
